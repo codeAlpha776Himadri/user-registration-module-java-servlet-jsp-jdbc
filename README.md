@@ -1,8 +1,8 @@
-===================
+
 To Compile Project :
 =================== 
 
-cd <project-dir>
+cd project-dir
 sudo mvn
 
 ===================
