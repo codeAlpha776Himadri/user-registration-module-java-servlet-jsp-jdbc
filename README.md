@@ -2,7 +2,7 @@
 To Compile Project :
 =================== 
 
-cd project-dir
+cd project-dir <br>
 sudo mvn
 
 ===================
