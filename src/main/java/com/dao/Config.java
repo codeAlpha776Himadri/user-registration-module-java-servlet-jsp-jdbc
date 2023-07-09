@@ -12,7 +12,7 @@ public class Config {
 
     private String connUrl = "jdbc:mysql://Localhost:3306/user_registration";
     private String userName = "root";
-    private String password = "HMmy124#";
+    private String password = "<put pass here>";
     private String drivername = "com.mysql.jdbc.Driver";
 
     @Bean("dataSource")
